@@ -10,5 +10,7 @@ package edu.learn.datastructures;
  * @author subbu
  */
 public class Practice {
-    
+    public static void main (String[] args) {
+        
+    }
 }
